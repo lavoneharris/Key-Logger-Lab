@@ -14,7 +14,15 @@ This KeyLogger Project consists of a C# script that will record the input of use
 - Identity Theft.<br>
 - Physical/Virtual Stalking.<br>
 
-
+<h2>How Keyloggers Can Be Distrubuted:</h2><br>
+- MP3 music files<br>
+- E-mail attachments<br>
+- Clicking on deceptive pop–ups<br>
+- P2P networks<br>
+- AVI files (i.e., "YouTube" or other videos)<br>
+- A legitimate Web site link, picture, or story that was malfaced<br>
+- Downloaded games or any other PC tools or programs<br>
+- Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs<br>
 <h2>How Keyloggers Can Be Distrubuted:<h2><br>
 - MP3 music files<br>
 - E-mail attachments<br>
