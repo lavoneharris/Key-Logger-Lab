@@ -45,10 +45,10 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 <p align="center">
 Error Message in Debug: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CEsUbLw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reason for Error in Debug (Antivirus Deleted Writing the keylogger.exe:  <br/>
+Reason for Error in Debug (Antivirus Deleted Writing the keylogger.exe):  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
