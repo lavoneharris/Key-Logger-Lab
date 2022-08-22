@@ -34,12 +34,12 @@ This KeyLogger Project consists of a C# script that will record the input of use
 <br>
 <h2>Languages and Utilities Used</h2>
 
-- <b>C-Sharp</b> 
-- <b>Visual Studio Community Edition 2022</b>
+- C# 
+- Visual Studio Community Edition 2022
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- Windows 10
 
 <h2>Program walk-through:</h2>
 
