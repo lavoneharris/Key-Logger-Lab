@@ -4,6 +4,8 @@
 
 <h2>Description</h2>
 This KeyLogger Project consists of a C# script that will record the keystrokes input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in Programdata Folder. 
+<br />
+<br />
 
 Keyloggers are considered dangerous for several reasons:
 
