@@ -16,15 +16,15 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 
 <h2>How Keyloggers Can Be Distrubuted:<h2>
-- MP3 music files
-- E-mail attachments
-- Clicking on deceptive pop–ups
-- P2P networks
-- AVI files (i.e., "YouTube" or other videos)
-- A legitimate Web site link, picture, or story that was malfaced
-- Downloaded games or any other PC tools or programs
-- Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs
-<br>
+- MP3 music files<br>
+- E-mail attachments<br>
+- Clicking on deceptive pop–ups<br>
+- P2P networks<br>
+- AVI files (i.e., "YouTube" or other videos)<br>
+- A legitimate Web site link, picture, or story that was malfaced<br>
+- Downloaded games or any other PC tools or programs<br>
+- Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs<br>
+
 <h2>How to Protect Yourself:<h2>
 - Good Up to Date Antivirus.
 - Dont Download Unknown Files
