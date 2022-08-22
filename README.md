@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. 
+This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block and delete the path to write thekeylogger.exe file.That took some troubleshooting and use of StackOverFlow as my Antivirus did not warm be of the blocking of the .exe. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. 
 <br />
 
 
@@ -44,23 +44,23 @@ This KeyLogger Project consists of a C# script that will record the input of use
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Error Message in Debug: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Reason for Error in Debug (Antivirus Deleted Writing the keylogger.exe:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Adding Exclusion & Unquarantining: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Keylogger Logging Inputing keystrokes from Notepad:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Keylogger as it writes to a .txt in ProgramData:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -81,4 +81,3 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 
---!># Key-Logger-Lab
