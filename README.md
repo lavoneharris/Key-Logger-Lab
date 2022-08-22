@@ -3,17 +3,17 @@
 
 
 <h2>Description</h2>
-<b>This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. <b>
+This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. 
 <br />
 
 
 
 <h2>Keyloggers Are Considered Dangerous For Several Reasons:</h2>
 
-- <b>Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize       this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account</b> 
-- <b>Visual Studio Community Edition 2022</b>
-
-
+- Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize       this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.
+- Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private.
+- Identity Theft
+- Physical/Virtual Stalking
 
 
 
