@@ -8,10 +8,10 @@ This KeyLogger Project consists of a C# script that will record the input of use
 <br />
 <h2>Keyloggers are considered dangerous for several reasons: </h2>
 
-- <b>Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.</b>(21H2)
-- <b> Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private. </b> (21H2)
-- <b> Identity Theft</b>(21H2)
-- <b> Stalking </b>(21H2)
+- <b>Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.</b>
+- <b> Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private. </b> 
+- <b> Identity Theft</b>
+- <b> Stalking </b>
 
 <h2>Keyloggers are considered dangerous for several reasons:<h2>
 
