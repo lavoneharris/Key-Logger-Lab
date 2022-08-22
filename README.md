@@ -3,11 +3,11 @@
 
 
 <h2>Description</h2>
-This KeyLogger Project consists of a C# script that will record the keystrokes input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path. Keyloggers are considered a Spyware because it spys on your information with out you noticing. 
+This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. 
 <br />
 <br />
 
-Keyloggers are considered dangerous for several reasons:
+<h2>Keyloggers are considered dangerous for several reasons:<h2>
 
 1. Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account. 
 2. Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private.
@@ -15,7 +15,7 @@ Keyloggers are considered dangerous for several reasons:
 4. Stalking
 
 
-How Keyloggers Can Be Distrubuted:
+<h2>How Keyloggers Can Be Distrubuted:<h2>
 1. MP3 music files
 2. E-mail attachments
 3. Clicking on deceptive pop–ups
@@ -25,7 +25,7 @@ How Keyloggers Can Be Distrubuted:
 7. Downloaded games or any other PC tools or programs
 8. Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs
 
-How to Protect Yourself:
+<h2>How to Protect Yourself:<h2>
 1. Good Up to Date Antivirus.
 2. Dont Download Unknown Files
 3. Teaching employees about malware and keyloggers may prevent identity theft or data breach, but is not the grand solution. 
