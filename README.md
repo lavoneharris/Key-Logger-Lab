@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. 
+<b>This KeyLogger Project consists of a C# script that will record the input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in a Programdata Folder. Note if you have a good AntiVirus (such as Bitdefender Antivirus) this program will not run as it will block the path to write thekeylogger.exe file. You will need to both unquarantine and create a exclsuion for the path in the Antivirus. Keyloggers are considered a Spyware because it spys on your information without you noticing. <b>
 <br />
 
 
