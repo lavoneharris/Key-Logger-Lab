@@ -9,50 +9,30 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 
 <h2>Keyloggers Are Considered Dangerous For Several Reasons:</h2>
-
-- Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize       this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.
+- Allows the attacker to see patterns, for instance say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.
 - Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private.
-- Identity Theft
-- Physical/Virtual Stalking
-
-
-
-<h2>Keyloggers are considered dangerous for several reasons: </h2>
-1. Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize       this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.</b>
-<br/>
-2. Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private. </b> <br/>
-4. Identity Theft</b><br/>
-5. Stalking </b><br/>
-
-<h2>Keyloggers are considered dangerous for several reasons:<h2>
-
-1. Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account. 
-2. Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private.
-3. Identity Theft
-4. Stalking
+- Identity Theft.
+- Physical/Virtual Stalking.
 
 
 <h2>How Keyloggers Can Be Distrubuted:<h2>
-1. MP3 music files
-2. E-mail attachments
-3. Clicking on deceptive pop–ups
-4. P2P networks
-5. AVI files (i.e., "YouTube" or other videos)
-6. A legitimate Web site link, picture, or story that was malfaced
-7. Downloaded games or any other PC tools or programs
-8. Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs
-
+- MP3 music files
+- E-mail attachments
+- Clicking on deceptive pop–ups
+- P2P networks
+- AVI files (i.e., "YouTube" or other videos)
+- A legitimate Web site link, picture, or story that was malfaced
+- Downloaded games or any other PC tools or programs
+- Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs
+<br>
 <h2>How to Protect Yourself:<h2>
-1. Good Up to Date Antivirus.
-2. Dont Download Unknown Files
-3. Teaching employees about malware and keyloggers may prevent identity theft or data breach, but is not the grand solution. 
-4. Virtual Keyboard
-5. Password Manager
-6. 2 Factor Authentication
-7. 
-<br />
-
-
+- Good Up to Date Antivirus.
+- Dont Download Unknown Files
+- Teaching employees about malware and keyloggers may prevent identity theft or data breach, but is not the grand solution. 
+- Virtual Keyboard
+- Password Manager
+- 2 Factor Authentication 
+<br>
 <h2>Languages and Utilities Used</h2>
 
 - <b>C-Sharp</b> 
