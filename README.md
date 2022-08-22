@@ -8,13 +8,13 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 
 
-<h2>Keyloggers Are Considered Dangerous For Several Reasons:</h2><br>
+<h2>Keyloggers Are Considered Dangerous For Several Reasons:</h2>
 - Allows the attacker to see patterns, for instance say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account.<br>
 - Say you are a politican searching up personal information on google such as (How to Get Away With Murder or How to cheat on your Spouse) if an attacker gets ahold of these keystrokes they could try and blackmail for this information to remain private.<br>
 - Identity Theft.<br>
 - Physical/Virtual Stalking.<br>
 
-<h2>How Keyloggers Can Be Distrubuted:</h2><br>
+<h2>How Keyloggers Can Be Distrubuted:</h2>
 - MP3 music files<br>
 - E-mail attachments<br>
 - Clicking on deceptive pop–ups<br>
@@ -24,13 +24,13 @@ This KeyLogger Project consists of a C# script that will record the input of use
 - Downloaded games or any other PC tools or programs<br>
 - Faked malicious Web sites that impersonate popular sites (sites such as Google, eBay, Amazon, Yahoo, banks) or anti-virus programs<br>
 
-<h2>How To Protect Yourself:</h2><br>
-- Good Up to Date Antivirus.
-- Dont Download Unknown Files
-- Teaching employees about malware and keyloggers may prevent identity theft or data breach, but is not the grand solution. 
-- Virtual Keyboard
-- Password Manager
-- 2 Factor Authentication 
+<h2>How To Protect Yourself:</h2>
+- Good Up to Date Antivirus.<br>
+- Dont Download Unknown Files<br>
+- Teaching employees about malware and keyloggers may prevent identity theft or data breach, but is not the grand solution. <br>
+- Virtual Keyboard<br>
+- Password Manager<br>
+- 2 Factor Authentication <br>
 <br>
 <h2>Languages and Utilities Used</h2>
 
