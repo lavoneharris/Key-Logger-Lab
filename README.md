@@ -8,7 +8,7 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Keyloggers are considered dangerous for several reasons:</h2>
 
 - <b>C-Sharp</b> 
 - <b>Visual Studio Community Edition 2022</b>
