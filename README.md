@@ -61,7 +61,7 @@ Keylogger Logging Inputing keystrokes from Notepad:  <br/>
 <br />
 <br />
 Keylogger as it writes to a .txt in ProgramData:  <br/>
-<img src="https://i.imgur.com/S3m8sfq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S3m8Sfq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
