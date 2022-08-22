@@ -49,7 +49,7 @@ Error Message in Debug: <br/>
 <br />
 <br />
 Reason for Error in Debug (Antivirus Deleted Writing the keylogger.exe):  <br/>
-<img src="https://i.imgur.com/BmyhN50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BmyhN5O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding Exclusion & Unquarantining: <br/>
