@@ -8,9 +8,9 @@ This KeyLogger Project consists of a C# script that will record the input of use
 
 
 
-<h2>Keyloggers are considered dangerous for several reasons:</h2>
+<h2>Keyloggers Are Considered Dangerous For Several Reasons:</h2>
 
-- <b>C-Sharp</b> 
+- <b>Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize       this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account</b> 
 - <b>Visual Studio Community Edition 2022</b>
 
 
