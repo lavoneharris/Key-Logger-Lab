@@ -49,27 +49,21 @@ Error Message in Debug: <br/>
 <br />
 <br />
 Reason for Error in Debug (Antivirus Deleted Writing the keylogger.exe):  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BmyhN50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding Exclusion & Unquarantining: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PrkWfxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Keylogger Logging Inputing keystrokes from Notepad:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ciZiyyo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Keylogger as it writes to a .txt in ProgramData:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S3m8fq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
