@@ -3,6 +3,13 @@
 
 
 <h2>Description</h2>
+This KeyLogger Project consists of a C# script that will record the keystrokes input of user on any application running on the device. This will also create a .txt for the attacker with the recorded keystroke inputs in Programdata Folder. 
+
+Keyloggers are considered dangerous for several reasons:
+
+1. Allows the attacker to see pattern say you use a the same Username/Email and Password for both for Facebook and Amazon Account. Once they recognize this pattern they may have access to both these accounts and could maybe do a Social Engineer Attack posing as you on Facebook or Purchase items on your Amazon Account. 
+
+
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
 
