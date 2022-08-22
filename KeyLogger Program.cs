@@ -1,6 +1,6 @@
 ﻿//Lavone Harris
 //KeyLogger Project 
-// Refrence: https://www.youtube.com/watch?v=4k2IQCQV9Kc
+// Reference: https://www.youtube.com/watch?v=4k2IQCQV9Kc
 
 
 using System;
